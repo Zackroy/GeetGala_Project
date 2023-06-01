@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714435988473",
+    "project_id": "geet-1ab14",
+    "storage_bucket": "geet-1ab14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714435988473:android:31850eccb45228c76c0b28",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKRhNDIxGunwZLPIGYedeFt6YMxd_3CsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
